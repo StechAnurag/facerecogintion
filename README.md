@@ -33,4 +33,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Author
 
-[Anurag Shrivastava] (https://github.com/StechAnurag)
+[Anurag Shrivastava](https://github.com/StechAnurag)
